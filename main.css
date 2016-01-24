@@ -1,0 +1,61 @@
+
+
+Article {
+	float: left;
+	padding: 5px;
+	display: block;
+
+}
+
+.topnav {
+	border: 1px solid black;
+    background-color: #FFB4B0;
+    padding: 16px;
+    margin-right: 47%;
+    margin-left: 1%
+}
+
+.filter {
+	border-style: solid;
+    margin: 2px 150px 4px 50px;
+    t
+}
+
+.mymusic {
+	border: 1px solid black;
+    background-color: #4DD7FA;
+    padding-right: 50px;
+    float: left;
+    height: 375px;
+    margin: 1%;
+    text-indent: 2%;
+    text-align: -webkit-left
+}
+
+.Names {
+	border: 1px solid black;
+    background-color: #FEFAC0;
+    padding-right: 63px;
+    padding-left: 50px;
+    height: 375px;
+    float: left;
+    width: 300px;
+    margin: 1%
+}
+
+.filter {
+	 display: block;
+   height: 6%;
+   width: 45%;
+   background: lightgrey;
+   border: 2px solid black;
+   color: black;
+   text-align: center;
+   font: 1em/25px "Helvetica Neue", sans-serif;
+   border-radius: 7px;
+   margin: 1em auto 0 auto;
+}
+
+h2 {
+  color: #785616;
+}
