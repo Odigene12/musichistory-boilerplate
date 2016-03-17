@@ -32,7 +32,7 @@ Article {
     text-align: -webkit-left
 }
 
-.Names {
+#Names {
 	border: 1px solid black;
     background-color: #FEFAC0;
     padding-right: 63px;
