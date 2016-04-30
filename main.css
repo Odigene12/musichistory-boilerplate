@@ -7,13 +7,14 @@ Article {
 
 }
 
-.topnav {
+#topnav {
 	border: 1px solid black;
     background-color: #FFB4B0;
     padding: 16px;
     margin-right: 47%;
     margin-left: 1%
 }
+
 
 .filter {
 	border-style: solid;
@@ -37,7 +38,7 @@ Article {
     background-color: #FEFAC0;
     padding-right: 63px;
     padding-left: 50px;
-    height: 375px;
+    height: 100%;
     float: left;
     width: 300px;
     margin: 1%
@@ -58,4 +59,17 @@ Article {
 
 h2 {
   color: #785616;
+}
+
+.hidden {
+  visibility: hidden;
+}
+
+.visible {
+  visibility: visible;
+}
+
+
+#input {
+  margin-top: 50px;
 }

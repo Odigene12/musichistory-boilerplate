@@ -5,14 +5,23 @@
   <meta charset="utf-8">
   <title>Music History</title>
   <link rel="stylesheet" type="text/css" href="main.css">
-  <div class="topnav">
-  	<a href="View Music">View Music</a> <b>|</b>
-  	<a href="Add Music">Add Music</a> <b>|</b>
+  <div id="topnav">
+  	<a id="list" href="ListMusic">List Music</a> <b>|</b>
+  	<a id= "add" href="AddMusic">Add Music</a> <b>|</b>
   	<a href="Profile">Profile</a> 
   </div>
+  	<div id="AddMusicView">
+		<div id="input">
+			<input type="text" placeholder = "song name" id="song">
+			<input type="text" placeholder = "artist name" id="artist">
+			<input type="text" placeholder = "album name" id="album">
+				<button id="addBtn">Add</button>
+		</div>	
+	</div>		
 </head>
 
 <body>
+<div id="ListMusicView">
   <div class="mymusic">
 	<div class="Song">
 	<label>Song length:</label>
@@ -67,6 +76,9 @@
 	
   </div>
  </div> 
+ </div>
  <script type="text/javascript" src= "songs.js"></script>
+ <script type="text/javascript" src= "mh2.js"></script>
+ <script type="text/javascript" src= "mh3.js"></script>
 </body>
 </html>
