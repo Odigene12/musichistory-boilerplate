@@ -73,3 +73,7 @@ h2 {
 #input {
   margin-top: 50px;
 }
+
+#more {
+  float: right;
+}

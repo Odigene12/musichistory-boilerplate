@@ -1,4 +1,4 @@
-"use script";
+"use strict";
 
 let beginInput = document.getElementById("AddMusicView");
 	beginInput.classList.add("hidden"); 
@@ -12,12 +12,12 @@ function musicGone(){
 	let myMusic= document.getElementById("ListMusicView");
 myMusic.classList.add("hidden");
 beginInput.classList.remove("hidden");
-};
+}
 
 function addMusic(){
 	viewSwitch.addEventListener("click", musicGone);
 	 
-};
+}
 
 function addGone(){
 document.getElementById("ListMusicView").classList.remove("hidden");

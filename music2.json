@@ -1,0 +1,64 @@
+{
+    "music2": [
+        {
+            "Name": "Get Up",
+            "Artist": "Ciara",
+            "Album": "Step Up Soundtrack"
+        },
+
+        {
+        	"Name": "Because I Got High",
+        	"Artist": "Afroman",
+        	"Album": "Because I Got High"
+        },
+
+        {
+        	"Name": "B2k is Hot",
+        	"Artist": "B2k",
+        	"Album": "B2k"
+        },
+
+        {
+        	"Name": "Shanghai",
+        	"Artist": "Nikki Minaj",
+        	"Album": "Pinkprint"
+        },
+
+        {
+        	"Name": "Chain smoker",
+        	"Artist": "Chance the Rapper",
+        	"Album": "Acid raps"
+        },
+        
+        {
+        	"Name": "No Small Talk",
+        	"Artist": "Childish Gambino",
+        	"Album": "Kauai"
+        },
+
+        {
+            "Name": "Cuando Me Enamoro",
+            "Artist": "Andrea Bocelli",
+            "Album": "Amore"
+        },
+
+        {
+            "Name": "Blue Ocean Floor",
+            "Artist": "Justin Timberlake",
+            "Album": "the 20/20 Experience"
+        },
+
+        {
+            "Name": "Quiero Saber",
+            "Artist": "Gipsy Kings",
+            "Album": "Gipsy Kings"
+        },
+
+        {
+        	"Name": "End of Time",
+        	"Artist": "Beyoncé",
+        	"Album": "4"
+        }
+
+    ]
+}

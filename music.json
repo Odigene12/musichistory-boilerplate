@@ -1,0 +1,45 @@
+{
+    "music": [
+        {
+            "Name": "Crazy",
+            "Artist": "Javier",
+            "Album": "Javier"
+        },
+
+        {
+        	"Name": "Legs",
+        	"Artist": "ZZTop",
+        	"Album": "Eliminator"
+        },
+
+        {
+        	"Name": "The Logical Song",
+        	"Artist": "Supertramp",
+        	"Album": "Breakfast in America"
+        },
+
+        {
+        	"Name": "Another Brick in the Wall",
+        	"Artist": "Pink Floyd",
+        	"Album": "The Wall"
+        },
+
+        {
+        	"Name": "Welcome to the Jungle",
+        	"Artist": "Guns & Roses",
+        	"Album": "Appetite for Destruction"
+        },
+        
+        {
+        	"Name": "Ironic",
+        	"Artist": "Alanis Morisette",
+        	"Album": "Jagged Little Pill"
+        },
+
+        {
+        	"Name": "Without You",
+        	"Artist": "Usher",
+        	"Album": "Nothing but the Beat"
+        }
+    ]
+}
